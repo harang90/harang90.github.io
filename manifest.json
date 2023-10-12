@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "나만솔로",
+  "name": "나만솔로 - 나는 솔로 비공식 팬사이트",
   "icons": [
     {
       "src": "favicon.ico",
