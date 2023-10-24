@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/hkksh4mguhpynaew/public_html/
+    - export DEPLOYPATH=/www/hkksh4mguhpynaew/public_html/
     - /bin/cp -R static $DEPLOYPATH
     - /bin/cp asset-manifest.json $DEPLOYPATH
     - /bin/cp favicon.ico $DEPLOYPATH
